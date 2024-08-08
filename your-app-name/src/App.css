@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+.navbar-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar-item {
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
